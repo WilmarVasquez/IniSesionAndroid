@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370144779319",
+    "project_id": "sena-e4ecb",
+    "storage_bucket": "sena-e4ecb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370144779319:android:cf80eb6ba56acd7f3533b2",
+        "android_client_info": {
+          "package_name": "com.example.googleregistro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370144779319-s60p81beierra34tqq2papes8oe2vr5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleregistro",
+            "certificate_hash": "87dd12a29d8a5033795b13b0e0b67901393aff56"
+          }
+        },
+        {
+          "client_id": "370144779319-8dtf1m5vhuk33p1dui3vnkgagblc6mfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5u4iJ_A-aEN3qsCnrPDZajYlOiwm-3mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370144779319-8dtf1m5vhuk33p1dui3vnkgagblc6mfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
